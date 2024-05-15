@@ -87,7 +87,7 @@ code {
 }
 
 .accordion_input:checked ~ .accordion_label {
-	border-bottom: var(--light-purple) 2px solid;
+	border-bottom: var(--red) 2px solid;
 }
 
 .accordion_input:checked ~ .content {
